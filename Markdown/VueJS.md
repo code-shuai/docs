@@ -4,17 +4,25 @@
 
 
 
+## MVVM
+
+![BiliBili](https://gitee.com/code-shuai/map-depot/raw/master/VueJS/MVVM.png "bilibili 个人中心图片")
 
 
-# 一、Vue 基础语法
 
 
 
-## 插值操作
+
+
+## 一、Vue 基础语法
+
+
+
+### 插值操作
 
 **常见指令**
 
-### 1. Mustache 语法
+#### 1. Mustache 语法
 
 ```
 {{Mustache}} 胡子/胡须
@@ -41,7 +49,7 @@
 </script>
 ```
 
-### 2. v-once 
+#### 2. v-once 
 
 ```
 <div id="app">
@@ -60,7 +68,7 @@
 	})
 </script>
 ```
-### 3. v-html
+#### 3. v-html
 
 ```
 <div id="app">
@@ -81,7 +89,7 @@
 </script>
 ```
 
-### 4. v-text
+#### 4. v-text
 
 ```
 <div id="app">
@@ -103,7 +111,7 @@
 ```
 
 
-### 5. v-pre
+#### 5. v-pre
 
 ```
 <div id="app">
@@ -124,7 +132,7 @@
 </script>
 ```
 
-### 6. v-cloak
+#### 6. v-cloak
 
 
 ```
@@ -155,11 +163,11 @@
 
 
 
-## 绑定属性
+### 绑定属性
 
-### 1. v-bind
+#### 1. v-bind
 
-#### 基础操纵
+##### 基础操纵
 ```
 <!-- v-bind 基础使用 -->
 <div id="app">
@@ -188,7 +196,7 @@
 
 **进阶操作**
 
-#### 对象语法
+##### 对象语法
 
 ```
 <style>
@@ -231,36 +239,36 @@
 </script>
 ```
 
-#### 数组语法
+##### 数组语法
 
 
 
 
-## 计算属性
+### 计算属性
 
-## 事件监听
+### 事件监听
 
-## 条件判断
+### 条件判断
 
-## 循环遍历
+### 循环遍历
 
-## 阶段案例
+### 阶段案例
 
-## v-model
-
-
+### v-model
 
 
 
 
-# 二、组件化开发
 
-# 三、Vue CLI 详解
 
-# 四、Vue-router
+## 二、组件化开发
 
-# 五、Vuex 详解
+## 三、Vue CLI 详解
 
-# 六、网络封装
+## 四、Vue-router
+
+## 五、Vuex 详解
+
+## 六、网络封装
 
 
