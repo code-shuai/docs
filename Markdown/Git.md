@@ -54,3 +54,7 @@
 ### 3. 切换分支
 
 	git checkout (分支名)
+
+
+![git](https://gitee.com/code-shuai/map-depot/raw/master/Git/git.png)
+
