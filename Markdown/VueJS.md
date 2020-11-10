@@ -6,7 +6,9 @@
 
 ## MVVM
 
-![BiliBili](https://gitee.com/code-shuai/map-depot/raw/master/VueJS/MVVM.png "bilibili 个人中心图片")
+![
+
+](https://gitee.com/code-shuai/map-depot/raw/master/VueJS/MVVM.png "Vue - MVVM")
 
 
 

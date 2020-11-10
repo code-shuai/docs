@@ -55,6 +55,18 @@
 
 	git checkout (分支名)
 
+### 4. 合并分支
+
+	git merge (分支名)
+	从填写分支合并至当前分支
+
+### 5. 合并分支(2)
+
+	git rebase (分支名)
+	将当前分支合并至填写分支
+
+
+
 
 ![git](https://gitee.com/code-shuai/map-depot/raw/master/Git/git.png)
 
