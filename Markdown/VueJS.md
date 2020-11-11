@@ -6,9 +6,7 @@
 
 ## MVVM
 
-![
-
-](https://gitee.com/code-shuai/map-depot/raw/master/VueJS/MVVM.png "Vue - MVVM")
+![](https://gitee.com/code-shuai/map-depot/raw/master/VueJS/MVVM.png "Vue - MVVM")
 
 
 
