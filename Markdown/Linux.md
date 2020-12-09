@@ -2,6 +2,12 @@
 
 
 
+
+
+
+
+
+
 ## 基本操作
 
 ### 命令 - 目录
@@ -70,6 +76,89 @@
 
 
 # Ubuntu
+
+
+
+### 环境配置
+
+
+
+- dotnet core sdk
+- git
+- nginx
+- nodejs
+- npm
+- cnpm
+- vue
+- 
+
+
+
+### nginx
+
+
+
+服务
+
+
+
+查看状态
+
+````
+systemctl status u-mvc-app.service
+````
+
+停止
+
+```
+systemctl stop u-mvc-app.service
+```
+
+开启
+
+```
+systemctl start u-mvc-app.service
+```
+
+
+
+
+
+
+
+### desktop
+
+
+
+```
+ apt-get update   //更新软件库
+ apt-get upgrade   //升级软件
+ apt-get install ubuntu-desktop    //安装Ubuntu桌面系
+```
+
+
+
+### root 登录
+
+
+
+
+
+### vs code
+
+
+
+```
+sudo snap install --classic vscode
+```
+
+新
+
+```
+sudo snap install code --classic
+```
+
+
 
 
 
